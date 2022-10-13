@@ -1,0 +1,19 @@
+div{
+    height: 520px;
+    width: 24%;
+    background-color:yellow;
+    border: rgb(0, 4, 255) 2px solid;
+    color: green;
+    float: left;
+    text-align: center;
+    padding: 5px;
+    border-radius: 20px;
+}
+img{
+    height: 250px;
+    width: 50%;
+}
+h3{
+    color: red;
+    font-family: ;
+}
